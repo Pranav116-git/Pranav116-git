@@ -1,44 +1,119 @@
-👋 Hi, I'm Pranav Ahire
+# 👋 Hi, I'm Pranav Ahire
 
-💻 Aspiring Software Engineer | Diploma in Computer Engineering  
-🔧 Currently focused on Full Stack Development with backend specialization  
-🚀 Passionate about building impactful projects, solving real-world problems, and exploring Cybersecurity as a future specialization
+### AI Engineering Student • Software Engineer • Building Intelligent Digital Solutions
 
----
-
-🎯 What I'm Working On:
-- 👨‍💻 Building web apps using HTML, CSS, JavaScript, and Node.js
-- 🧠 Practicing DSA daily on LeetCode and GFG
-- 🛡️ Learning Linux and Networking as part of my Cybersecurity foundation
-- 🧰 Hosting my code and projects on GitHub with detailed READMEs
+I'm a Computer Science Engineering student passionate about building intelligent software, AI-powered applications, and scalable cloud solutions. I enjoy solving real-world problems through practical engineering projects while continuously learning and improving my skills.
 
 ---
 
-🛠️ Languages & Tools I Use:
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
+## 🚀 Current Focus
+
+- 🤖 Artificial Intelligence & Agentic AI
+- ☁️ Cloud Engineering
+- 💻 Software Engineering
+- 🏗️ System Design & Scalable Applications
+- 📚 Continuous Learning & Problem Solving
 
 ---
 
-📚 My Learning Resources:
-- [LeetCode](https://leetcode.com)
-- [GeeksforGeeks](https://geeksforgeeks.org)
-- [roadmap.sh](https://roadmap.sh)
-- [YouTube: CodeWithHarry, NetworkChuck](https://www.youtube.com)
+## 🌐 Portfolio & Professional Links
+
+🌍 **Portfolio Website**  
+*Coming Soon (Deployment in Progress)*
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/pranavahire116/
+
+💻 **GitHub**  
+https://github.com/Pranav116-git
+
+📄 **Resume**  
+https://drive.google.com/file/d/1aizSUZ0G003R9mCGzrE4b5sNLYeX1jxI/view?usp=sharing
+
+📧 **Email**  
+pranavahire116@gmail.com
 
 ---
 
-🌱 Exploring Next:
-- 🔐 Cybersecurity Labs (TryHackMe & Hack The Box)
-- ☁️ Cloud and DevOps Basics (AWS + CI/CD)
-- 📦 System Design & API Architecture
+## ⭐ Featured Projects
+
+### 🌐 Portfolio Website
+A modern, responsive portfolio showcasing my projects, technical skills, certifications, and professional journey.
+
+**Status:** ✅ Completed
 
 ---
 
-## 📬 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pranavahire116/)
+### 🤖 AI Startup Consultant
+
+An intelligent AI system that helps startups evaluate business ideas, technical feasibility, market fit, and implementation strategy using Agentic AI.
+
+**Status:** 🚧 In Development
+
+---
+
+### 🎓 StudyLake AI Platform
+
+An AI-powered educational platform focused on intelligent learning assistance, automation, and student productivity.
+
+**Status:** 🚧 In Development
+
+---
+
+### 📚 AI Research Assistant
+
+An AI application designed to assist researchers with literature reviews, document understanding, and academic research workflows.
+
+**Status:** 📋 Planned
+
+---
+
+### 📱 AI Social Media Engine
+
+An intelligent automation platform for generating, scheduling, and managing social media content across multiple platforms.
+
+**Status:** 📋 Planned
+
+---
+
+## 🛠️ Technical Interests
+
+- Artificial Intelligence
+- Agentic AI
+- Backend Development
+- Frontend Development
+- Cloud Computing
+- Databases
+- REST APIs
+- Software Architecture
+- Automation Systems
+- Problem Solving
+
+---
+
+## 📜 Certifications
+
+This section will continue growing as I complete professional certifications in AI, Cloud, and Software Engineering.
+
+---
+
+## 🎯 Career Objective
+
+To build impactful AI-powered products and scalable software solutions while continuously improving my engineering skills and contributing to meaningful technology that solves real-world problems.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to connecting with students, developers, engineers, and professionals who share an interest in Artificial Intelligence, Software Engineering, and Cloud Technologies.
+
+📧 **Email:** pranavahire116@gmail.com
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/pranavahire116/
+
+🌍 **Portfolio:** *(Coming Soon)*
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
