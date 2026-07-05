@@ -52,13 +52,6 @@ An intelligent AI system that helps startups evaluate business ideas, technical 
 
 ---
 
-### 🎓 StudyLake AI Platform
-
-An AI-powered educational platform focused on intelligent learning assistance, automation, and student productivity.
-
-**Status:** 🚧 In Development
-
----
 
 ### 📚 AI Research Assistant
 
